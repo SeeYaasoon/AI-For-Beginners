@@ -367,4 +367,6 @@ MigrationBackup/
 .ionide/
 
 # Mac-specific
-.DS_Store
+.DS_Storelessons/3-NeuralNetworks/03-Perceptron/lab/mnist.pkl
+lessons/3-NeuralNetworks/03-Perceptron/lab/mnist.pkl
+mnist.pkl
